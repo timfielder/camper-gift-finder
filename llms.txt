@@ -1,0 +1,105 @@
+# Camper Gift Finder
+
+> Camper Gift Finder (https://timfielder.github.io/camper-gift-finder/) is a free 60-second quiz and set of gift guides that recommend camping gifts by recipient (partner, dad, mom, kid, teen, friend, coworker), camping style (car/family, backpacking, RV, hunting, fishing, winter), and budget (under $25, $25-50, $50-100, $100+). All 80 products are real, hand-picked, and were checked live on Amazon.com on 2026-11-02; prices are approximate.
+
+## Gift guides
+- [Camping Stocking Stuffers Under $25](https://timfielder.github.io/camper-gift-finder/gifts/stocking-stuffers-for-campers/)
+- [Gifts for Hunters Who Camp](https://timfielder.github.io/camper-gift-finder/gifts/gifts-for-hunters-who-camp/)
+- [RV Camper Gifts Under $50](https://timfielder.github.io/camper-gift-finder/gifts/rv-camper-gifts-under-50/)
+- [Gifts for Backpackers](https://timfielder.github.io/camper-gift-finder/gifts/gifts-for-backpackers/)
+- [Last-Minute Camping Gifts + Printable Trip Voucher](https://timfielder.github.io/camper-gift-finder/gifts/last-minute-camping-gifts/)
+
+## Tools
+- [Camping gift quiz](https://timfielder.github.io/camper-gift-finder/): shareable result URLs such as https://timfielder.github.io/camper-gift-finder/?who=dad&style=hunting&budget=25-50
+
+## Quick answers
+- Best camping stocking stuffers under $25: HotHands hand warmers, UCO Stormproof Match Kit, Petzl Tikkina headlamp, LifeStraw Peak straw, Lodge 6.5" cast iron skillet, The Night Sky star finder.
+- Best gifts for hunters who camp: Primos The Can deer call, Koola Buck game bags, Stanley Classic bottle, Mr. Heater Buddy, Vortex Crossfire HD 10x42 binoculars.
+- Best RV gifts under $50: Camco brass water pressure regulator, Camco TastePURE drinking water hose and filters, Kidde CO alarm, Lodge cast iron skillet.
+- Best gifts for backpackers: Darn Tough Hiker socks, Sea to Summit Aeros pillow, Sawyer Squeeze, MSR PocketRocket 2, Jetboil Flash, Garmin inReach Mini 2.
+- Best last-minute camping gift: a printable "Give a Camping Trip" voucher (family campout, fishing trip, stargazing night) paired with one small gift.
+
+## Full product list
+- Coleman Triton 2-Burner Propane Stove (Coleman), approx. $115–$120, for: car, rv, hunting. The classic two-burner that turns a campsite into a real kitchen; pancakes and coffee at the same time.
+- Lodge 10.25" Pre-Seasoned Cast Iron Skillet (Lodge), approx. $25–$30, for: car, rv, hunting, fishing. Goes straight on the fire grate or stove and will outlive every other piece of camp gear.
+- Lodge 6 qt Deep Camp Dutch Oven (Lodge), approx. $75–$80, for: car, rv, hunting. Legs and a flanged lid built for coals, so they can bake cobbler or chili right in the fire.
+- Rome Square Cast Iron Pie Iron (Rome Industries), approx. $25–$30, for: car, rv. Campfire grilled cheese and pie pockets; the gift every kid at the fire will fight over.
+- YETI Rambler 20 oz Tumbler with MagSlider Lid (YETI), approx. $35–$40, for: car, rv, hunting, fishing, winter. Keeps morning coffee hot through a cold sunrise, and nobody buys a YETI for themselves.
+- Stanley Classic Legendary Vacuum Bottle (1.5 qt) (Stanley), approx. $45–$50, for: car, hunting, fishing, winter, rv. The green thermos that keeps coffee hot all day in a tree stand, on a boat, or in a snowy campsite.
+- BioLite AlpenGlow 500 Rechargeable Lantern (BioLite), approx. $75–$80, for: car, rv, backpacking. Warm, cozy campsite light (plus color modes kids love) that charges by USB; no more propane mantles.
+- Solo Stove Bonfire 2.0 with Stand (Solo Stove), approx. $265–$270, for: car, rv. A low-smoke fire pit for the RV pad or backyard; the big wow gift for someone who has everything.
+- LuminAID PackLite Nova Solar Lantern (LuminAID), approx. $30–$35, for: car, backpacking, rv. Folds flat, charges in the sun, and hangs in a tent; no batteries to forget.
+- Goal Zero Lighthouse Micro Flash (Goal Zero), approx. $35–$40, for: car, backpacking, rv. A pocket lantern-and-flashlight that recharges by USB; light enough to live in a jacket pocket.
+- Petzl Tikkina Headlamp (Petzl), approx. $15–$20, for: car, backpacking, hunting, fishing, winter, rv. Hands-free light from a trusted brand at stocking-stuffer price; every camper needs a spare.
+- Black Diamond Spot 400 Headlamp (Black Diamond), approx. $45–$50, for: backpacking, hunting, fishing, winter. Bright, waterproof, and has a red mode that won't spook game or wreck night vision.
+- GCI Outdoor Freestyle Rocker Chair (GCI Outdoor), approx. $80–$85, for: car, rv, fishing. A folding chair that actually rocks; the most-loved seat at any campfire.
+- Kelty Low Loveseat Camp Chair (Kelty), approx. $145–$150, for: car, rv. A two-person camp chair, so couples can share the fire (and the blanket).
+- Rumpl Original Puffy Blanket (Rumpl), approx. $95–$100, for: car, rv, winter. A sleeping-bag-material blanket for chilly campfire nights, stadiums, and the couch.
+- ENO DoubleNest Hammock (Eagles Nest Outfitters), approx. $70–$75, for: car, backpacking. Sets up between two trees in two minutes; the teen-approved way to hang out at camp.
+- Coghlan's Telescoping Roasting Fork (Coghlan's), approx. $3–$6, for: car, rv. Extends far from the flames for perfect s'mores; cheap enough to buy one per kid.
+- Carson BugView Bug Catcher Magnifier (Carson), approx. $10–$15, for: car, rv. Catch, magnify, and release; turns any campsite into a nature lab for little kids.
+- Educational Insights GeoSafari Jr. Kidnoculars (Educational Insights), approx. $10–$15, for: car, rv, fishing. Real binoculars sized for small hands, for spotting birds and deer around camp.
+- Coleman Kids 45°F Sleeping Bag (Coleman), approx. $45–$50, for: car, rv. Their own kid-sized sleeping bag makes the first campout feel like a big deal.
+- The Night Sky Star Finder (40°–50° N, large) (David Chandler), approx. $10–$15, for: car, backpacking, rv, winter. Dial in the date and time to name the constellations over camp; perfect for a stargazing night.
+- Bananagrams Word Game (Bananagrams), approx. $10–$15, for: car, rv. A fast word game in a zip pouch that plays on a picnic table or tent floor.
+- Trekking the National Parks Board Game (Underdog Games), approx. $20–$25, for: car, rv. A family board game about visiting real national parks, for rainy-day tent time.
+- The Campout Cookbook (Marnie Hanel & Jen Stevenson), approx. $10–$15, for: car, rv. Fun, doable campfire recipes that upgrade hot dogs into a real camp dinner.
+- Celestron UpClose G2 10x25 Compact Binoculars (Celestron), approx. $25–$30, for: car, backpacking, rv. Small, light binoculars for birds, wildlife, and the moon from camp.
+- National Geographic Guide to the National Parks (9th ed.) (National Geographic), approx. $10–$15, for: car, rv. Trip-planning fuel for next season; the gift that starts the next adventure.
+- Lodge 6.5" Cast Iron Skillet (Lodge), approx. $10–$15, for: car, backpacking, rv, fishing. A mini skillet for eggs, a single trout, or a campfire cookie; real cast iron under $15.
+- Jetboil Flash Cooking System (Jetboil), approx. $140–$145, for: backpacking, hunting, fishing, winter. Boils water in about two minutes for coffee or freeze-dried meals; a backpacker's favorite.
+- MSR PocketRocket 2 Stove (MSR), approx. $45–$50, for: backpacking, hunting. An ultralight stove that weighs about 3 oz; the upgrade a backpacker actually wants.
+- Sawyer Squeeze Water Filter System (Sawyer), approx. $45–$50, for: backpacking, hunting, fishing. Turns stream water into drinking water; a trail essential that lasts for years.
+- LifeStraw Peak Series Personal Water Filter Straw (LifeStraw), approx. $20–$25, for: backpacking, car, hunting, fishing. Drink safely straight from a stream; great backup for any pack or emergency kit.
+- Katadyn BeFree 1L Filter Bottle (Katadyn), approx. $40–$45, for: backpacking. Fill, squeeze, and drink; collapses to nothing when empty.
+- Sea to Summit Aeros Ultralight Pillow (Sea to Summit), approx. $30–$35, for: backpacking, car, rv, winter. A real pillow that packs to fist size; ends the rolled-up-jacket era.
+- Therm-a-Rest Z Lite Sol Sleeping Pad (Therm-a-Rest), approx. $45–$50, for: backpacking, winter. Unpoppable foam pad; doubles as a camp seat and adds warmth under an air pad in winter.
+- Black Diamond Trail Trekking Poles (Black Diamond), approx. $85–$90, for: backpacking, hunting. Saves knees on steep descents and steadies stream crossings.
+- Darn Tough Hiker Micro Crew Socks (Darn Tough), approx. $25–$30, for: backpacking, hunting, fishing, winter, car. Merino socks with a lifetime guarantee; the stocking stuffer every hiker hopes for.
+- Garmin inReach Mini 2 Satellite Communicator (Garmin), approx. $310–$315, for: backpacking, hunting, fishing, winter. SOS and texting from anywhere without cell service; peace of mind for the people at home. (Needs a subscription plan.)
+- Nitecore NU25 UL Rechargeable Headlamp (Nitecore), approx. $35–$40, for: backpacking, hunting. A 400-lumen headlamp that weighs about 2 oz and charges by USB-C.
+- Opinel No. 08 Carbon Steel Folding Knife (Opinel), approx. $15–$20, for: car, backpacking, fishing, hunting. A classic French pocket knife for slicing cheese, rope, or kindling.
+- Leatherman Wave+ Multi-Tool (Leatherman), approx. $100–$105, for: car, rv, hunting, fishing. Pliers, knives, and drivers in one; fixes everything from tent poles to RV trim.
+- Victorinox Huntsman Swiss Army Knife (Victorinox), approx. $35–$40, for: car, backpacking, fishing, hunting. Saw, scissors, can opener, and blades; the camp pocket knife people keep for decades.
+- Nitecore NB10000 Gen 2 Power Bank (Nitecore), approx. $55–$60, for: backpacking, car. Featherweight power bank that keeps phones, headlamps, and GPS alive on multi-day trips.
+- Hydro Flask 32 oz Wide Mouth Bottle (Hydro Flask), approx. $40–$45, for: car, backpacking, rv, fishing. Ice water all day at a hot campsite; a gift that gets used every single day at home too.
+- Nalgene 32 oz Wide Mouth Bottle (Nalgene), approx. $15–$20, for: backpacking, car, winter. Nearly indestructible; fill with hot water for a sleeping-bag warmer on cold nights.
+- Light My Fire Swedish FireSteel Scout (Light My Fire), approx. $10–$15, for: backpacking, car, hunting, winter. Throws hot sparks in wind and wet; a fire starter that never runs out of fuel.
+- UCO Stormproof Match Kit (UCO), approx. $15–$20, for: car, backpacking, hunting, fishing, winter. Matches that relight after being dunked in water; the fire backup every pack needs.
+- Leukotape P Sports Tape (Leukotape), approx. $10–$15, for: backpacking, hunting. The blister tape long-distance hikers swear by; a small, insider stocking stuffer.
+- Light My Fire Titanium Spork (Light My Fire), approx. $20–$25, for: backpacking. Spoon, fork, and knife edge in one ultralight titanium tool.
+- Camco Brass RV Water Pressure Regulator (Camco), approx. $10–$15, for: rv. Protects the RV's plumbing from high campground water pressure; a must-have for new owners.
+- Camco TastePURE RV Water Filter (2-pack) (Camco), approx. $20–$25, for: rv. Better-tasting water at every campground hookup; a consumable RVers always need.
+- Andersen Camper Leveler (3604) (Andersen Hitches), approx. $70–$75, for: rv. Level the trailer in one pull-on move instead of stacking blocks; RVers love these.
+- Camco TastePURE 25 ft Drinking Water Hose (Camco), approx. $10–$15, for: rv. Drinking-water-safe hose (not a garden hose); exactly what a new RV owner forgets.
+- Blackstone 17" Tabletop Griddle (Blackstone), approx. $155–$160, for: rv, car, hunting. Smash burgers and full breakfasts at the campsite; RV and tailgate crowd favorite.
+- Kidde Battery Carbon Monoxide Detector (Kidde), approx. $25–$30, for: rv, winter, hunting. A small alarm for the RV, cabin, or hunting shack; the thoughtful gift that keeps people safe.
+- Spikeball 3-Ball Original Set (Spikeball), approx. $70–$75, for: car, rv. The campsite game teens and adults actually play; packs into one bag.
+- Vortex Crossfire HD 10x42 Binoculars (Vortex), approx. $145–$150, for: hunting, fishing. Crisp glass for glassing deer at dawn, with Vortex's no-questions lifetime warranty.
+- HotHands Hand Warmers (40 pairs) (HotHands), approx. $25–$30, for: hunting, winter, fishing, car. Forty pairs to split across every stocking; used on cold stands, ice, and frosty camp mornings.
+- OCOOPA Rechargeable Hand Warmers (2-pack) (OCOOPA), approx. $10–$15, for: hunting, winter, fishing. Rechargeable warmers that split into two; no more buying disposables.
+- Thermacell Portable Mosquito Repeller (Thermacell), approx. $20–$25, for: hunting, fishing, car. A no-spray bug shield for tree stands, docks, and picnic tables.
+- Mr. Heater Portable Buddy Heater (Mr. Heater), approx. $85–$90, for: hunting, winter, fishing, rv. Indoor-safe propane heat (with auto shutoff) for blinds and ice shanties; follow the ventilation rules.
+- Bushnell Core DS-4K No Glow Trail Camera (Bushnell), approx. $175–$180, for: hunting. See what's walking past the stand all season; the gift that pays off before opening day.
+- Primos The Original Can Deer Call (Primos), approx. $10–$15, for: hunting. Flip it over to make a doe bleat; the most recognized deer call in the woods, under $15.
+- Koola Buck Game Bags (Koola Buck), approx. $20–$25, for: hunting. Breathable bags that keep meat clean on the pack-out; a practical gift hunters run out of.
+- Buck 110 Folding Hunter Knife (Buck Knives), approx. $85–$90, for: hunting, car. An American classic with brass and ebony; the heirloom knife that gets passed down.
+- LEM Jerky Cannon (LEM Products), approx. $55–$60, for: hunting. Turns ground venison into jerky sticks for the next camp trip.
+- The MeatEater Fish and Game Cookbook (Steven Rinella), approx. $10–$15, for: hunting, fishing. Great recipes for venison, birds, and fish; turns this season's harvest into dinner.
+- The MeatEater Guide to Wilderness Skills and Survival (Steven Rinella), approx. $15–$20, for: hunting, backpacking, fishing. Practical backcountry skills from fire to navigation, written by hunters.
+- Ugly Stik GX2 Spinning Combo (Ugly Stik), approx. $75–$80, for: fishing, car. Nearly unbreakable rod-and-reel combo; the go-to first serious setup.
+- Rapala Fish 'n Fillet Knife (6") (Rapala), approx. $25–$30, for: fishing. The fillet knife that's been in tackle boxes for 50 years, with sheath.
+- Piscifun Aluminum Fishing Pliers (Piscifun), approx. $20–$25, for: fishing. Unhooks fish, cuts braid, opens split rings; lives on the belt.
+- PENN Battle IV Spinning Reel (PENN), approx. $125–$130, for: fishing. A tough all-metal reel for bigger fish and saltwater; an upgrade, not a starter.
+- Zebco Dock Demon Kids Combo (Zebco), approx. $20–$25, for: fishing, car. A short, easy rod for kids to catch their first sunfish off the dock.
+- KastKing Tarkio Polarized Sunglasses (KastKing), approx. $30–$35, for: fishing. Polarized lenses cut glare so they can see fish (and snags) under the water.
+- Buff CoolNet UV Neck Gaiter (Buff), approx. $20–$25, for: fishing, backpacking. UPF 50 sun cover for long days on the water; pulls up as a face cover.
+- Carhartt Acrylic Watch Cap Beanie (Carhartt), approx. $15–$20, for: hunting, winter, fishing, car. The iconic beanie; warm, cheap, and comes in blaze orange for hunters.
+- Smartwool Thermal Merino Reversible Cuffed Beanie (Smartwool), approx. $35–$40, for: winter, backpacking, hunting. Merino stays warm when damp and doesn't stink; ideal for sleeping in on cold nights.
+- Coleman North Rim 0°F Mummy Sleeping Bag (Coleman), approx. $90–$95, for: winter, hunting. An affordable cold-weather bag for late-season hunting camps and first winter trips.
+- Therm-a-Rest NeoAir XTherm NXT Sleeping Pad (Therm-a-Rest), approx. $225–$230, for: winter, backpacking. Among the warmest ultralight pads (R 7.3); the serious upgrade for winter campers.
+- HotHands Toe Warmers (HotHands), approx. $15–$20, for: hunting, winter, fishing. Stick-on toe warmers for long sits in the stand or on the ice.
+- Bug Bite Thing Suction Tool (Bug Bite Thing), approx. $9–$10, for: car, fishing, hunting, backpacking. Pulls out itch and sting at the source; tiny, cheap, and loved by parents.
+
+## Disclosure
+Some links may earn an affiliate commission at no extra cost (affiliate accounts pending).

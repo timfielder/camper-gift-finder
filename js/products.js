@@ -2,7 +2,7 @@
    Every item was checked live on Amazon.com on Nov 2, 2026 (title + price + page loads).
    Prices are approximate and change often. Affiliate tags are pending: set them in config below. */
 window.GF_CONFIG = {
-  AMAZON_TAG: 'TAG_PENDING',   // e.g. 'campergifts-20' once Amazon Associates approves
+  AMAZON_TAG: 'campergiftfinder-20',   // e.g. 'campergifts-20' once Amazon Associates approves
   REI_AVANTLINK: 'TAG_PENDING' // reserved for REI/AvantLink later
 };
 window.GF_LINK = function (p) {

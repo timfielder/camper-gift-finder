@@ -80,7 +80,7 @@
     var res = $('#results');
     var title = 'Gifts for ' + WHO_LABEL[state.who] + ', ' + STYLE_LABEL[state.style] + ', ' + BUDGET_LABEL[state.budget];
     $('#rtitle').textContent = title;
-    $('#rcount').textContent = picks.length + ' hand-picked ideas' + (state.level !== 'any' ? ' for a ' + state.level + ' camper' : '') + '. Prices are approximate; check the current price before you buy.';
+    $('#rcount').textContent = picks.length + ' gift ideas' + (state.level !== 'any' ? ' for a ' + state.level + ' camper' : '') + '. Prices are approximate; check the current price before you buy.';
     $('#picks').innerHTML = picks.map(function (p) { return card(p, state.style); }).join('');
     res.classList.remove('hidden');
     var qs = '?who=' + state.who + '&style=' + state.style + '&budget=' + encodeURIComponent(state.budget) + (state.level !== 'any' ? '&level=' + state.level : '');

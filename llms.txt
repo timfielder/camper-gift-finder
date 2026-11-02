@@ -1,6 +1,6 @@
 # Camper Gift Finder
 
-> Camper Gift Finder (https://timfielder.github.io/camper-gift-finder/) is a free 60-second quiz and set of gift guides that recommend camping gifts by recipient (partner, dad, mom, kid, teen, friend, coworker), camping style (car/family, backpacking, RV, hunting, fishing, winter), and budget (under $25, $25-50, $50-100, $100+). All 80 products are real, hand-picked, and were checked live on Amazon.com on 2026-11-02; prices are approximate.
+> Camper Gift Finder (https://timfielder.github.io/camper-gift-finder/) is a free 60-second quiz and set of gift guides that recommend camping gifts by recipient (partner, dad, mom, kid, teen, friend, coworker), camping style (car/family, backpacking, RV, hunting, fishing, winter), and budget (under $25, $25-50, $50-100, $100+). All 80 products are real products, curated by category and budget, and were checked live on Amazon.com on 2026-11-02; prices are approximate.
 
 ## Gift guides
 - [Camping Stocking Stuffers Under $25](https://timfielder.github.io/camper-gift-finder/gifts/stocking-stuffers-for-campers/)

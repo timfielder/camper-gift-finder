@@ -1,8 +1,8 @@
 /* Camper Gift Finder - curated gift dataset.
-   Every item was checked live on Amazon.com on Nov 2, 2026 (title + price + page loads).
-   Prices are approximate and change often. Affiliate tag is set in config below. */
+   Product links were checked on Amazon.com on Nov 2, 2026. Prices change; the price on Amazon at the time of purchase applies.
+   Affiliate tag is set in config below. */
 window.GF_CONFIG = {
-  AMAZON_TAG: 'campergiftfinder-20',   // e.g. 'campergifts-20' once Amazon Associates approves
+  AMAZON_TAG: 'campergiftfinder-20',
   REI_AVANTLINK: 'TAG_PENDING' // reserved for REI/AvantLink later
 };
 window.GF_LINK = function (p) {
@@ -15,7 +15,6 @@ window.GF_PRODUCTS = [
   "id": "coleman-stove",
   "name": "Coleman Triton 2-Burner Propane Stove",
   "brand": "Coleman",
-  "price": "approx. $115–$120",
   "priceApprox": 120,
   "band": "100+",
   "who": [
@@ -29,7 +28,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "beginner",
-  "why": "The classic two-burner that turns a campsite into a real kitchen; pancakes and coffee at the same time.",
+  "why": "Two burners, so pancakes and coffee can cook at the same time; runs on 1 lb propane cylinders. Outdoor use only.",
   "stocking": false,
   "asin": "B09HN1C1YJ",
   "checked": "2026-11-02"
@@ -38,7 +37,6 @@ window.GF_PRODUCTS = [
   "id": "lodge-skillet",
   "name": "Lodge 10.25\" Pre-Seasoned Cast Iron Skillet",
   "brand": "Lodge",
-  "price": "approx. $25–$30",
   "priceApprox": 30,
   "band": "25-50",
   "who": [
@@ -54,7 +52,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Goes straight on the fire grate or stove and will outlive every other piece of camp gear.",
+  "why": "Pre-seasoned cast iron that works on a camp stove or over a campfire grate.",
   "stocking": false,
   "asin": "B00WTSCXIS",
   "checked": "2026-11-02"
@@ -63,7 +61,6 @@ window.GF_PRODUCTS = [
   "id": "lodge-dutch",
   "name": "Lodge 6 qt Deep Camp Dutch Oven",
   "brand": "Lodge",
-  "price": "approx. $75–$80",
   "priceApprox": 80,
   "band": "50-100",
   "who": [
@@ -77,7 +74,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "seasoned",
-  "why": "Legs and a flanged lid built for coals, so they can bake cobbler or chili right in the fire.",
+  "why": "Legs and a flanged lid designed to hold coals, for baking cobbler or simmering chili at a campfire.",
   "stocking": false,
   "asin": "B00006JSUH",
   "checked": "2026-11-02"
@@ -86,7 +83,6 @@ window.GF_PRODUCTS = [
   "id": "pie-iron",
   "name": "Rome Square Cast Iron Pie Iron",
   "brand": "Rome Industries",
-  "price": "approx. $25–$30",
   "priceApprox": 30,
   "band": "25-50",
   "who": [
@@ -103,7 +99,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "any",
-  "why": "Campfire grilled cheese and pie pockets; the gift every kid at the fire will fight over.",
+  "why": "Makes campfire grilled cheese and pie pockets; long handles keep hands back from the coals. Adults should supervise kids at the fire.",
   "stocking": false,
   "asin": "B000FNLXWG",
   "checked": "2026-11-02"
@@ -112,7 +108,6 @@ window.GF_PRODUCTS = [
   "id": "yeti-rambler",
   "name": "YETI Rambler 20 oz Tumbler with MagSlider Lid",
   "brand": "YETI",
-  "price": "approx. $35–$40",
   "priceApprox": 35,
   "band": "25-50",
   "who": [
@@ -131,7 +126,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "any",
-  "why": "Keeps morning coffee hot through a cold sunrise, and nobody buys a YETI for themselves.",
+  "why": "A vacuum-insulated tumbler for hot coffee on a cold morning, with YETI's slide-to-close MagSlider lid.",
   "stocking": true,
   "asin": "B073WJMKHN",
   "checked": "2026-11-02"
@@ -140,7 +135,6 @@ window.GF_PRODUCTS = [
   "id": "stanley-classic",
   "name": "Stanley Classic Legendary Vacuum Bottle (1.5 qt)",
   "brand": "Stanley",
-  "price": "approx. $45–$50",
   "priceApprox": 45,
   "band": "25-50",
   "who": [
@@ -157,7 +151,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "any",
-  "why": "The green thermos that keeps coffee hot all day in a tree stand, on a boat, or in a snowy campsite.",
+  "why": "A large vacuum-insulated bottle for hot coffee in a tree stand, on a boat, or at a cold campsite.",
   "stocking": false,
   "asin": "B0CLZ1KY7Y",
   "checked": "2026-11-02"
@@ -166,7 +160,6 @@ window.GF_PRODUCTS = [
   "id": "biolite-alpenglow",
   "name": "BioLite AlpenGlow 500 Rechargeable Lantern",
   "brand": "BioLite",
-  "price": "approx. $75–$80",
   "priceApprox": 80,
   "band": "50-100",
   "who": [
@@ -181,7 +174,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "any",
-  "why": "Warm, cozy campsite light (plus color modes kids love) that charges by USB; no more propane mantles.",
+  "why": "A USB-rechargeable lantern with warm white light and color modes; no propane or mantles.",
   "stocking": false,
   "asin": "B08Z6294Y5",
   "checked": "2026-11-02"
@@ -190,7 +183,6 @@ window.GF_PRODUCTS = [
   "id": "solo-bonfire",
   "name": "Solo Stove Bonfire 2.0 with Stand",
   "brand": "Solo Stove",
-  "price": "approx. $265–$270",
   "priceApprox": 270,
   "band": "100+",
   "who": [
@@ -203,7 +195,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "any",
-  "why": "A low-smoke fire pit for the RV pad or backyard; the big wow gift for someone who has everything.",
+  "why": "A fire pit that Solo Stove markets as low-smoke, with a stand; a big-ticket gift for a backyard or campsite where fire pits are allowed.",
   "stocking": false,
   "asin": "B0B7BFJ5Y6",
   "checked": "2026-11-02"
@@ -212,7 +204,6 @@ window.GF_PRODUCTS = [
   "id": "luminaid",
   "name": "LuminAID PackLite Nova Solar Lantern",
   "brand": "LuminAID",
-  "price": "approx. $30–$35",
   "priceApprox": 33,
   "band": "25-50",
   "who": [
@@ -230,7 +221,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Folds flat, charges in the sun, and hangs in a tent; no batteries to forget.",
+  "why": "An inflatable solar lantern that folds flat, recharges in the sun, and hangs from a tent loop.",
   "stocking": true,
   "asin": "B0716JV1SG",
   "checked": "2026-11-02"
@@ -239,7 +230,6 @@ window.GF_PRODUCTS = [
   "id": "goalzero-micro",
   "name": "Goal Zero Lighthouse Micro Flash",
   "brand": "Goal Zero",
-  "price": "approx. $35–$40",
   "priceApprox": 40,
   "band": "25-50",
   "who": [
@@ -256,7 +246,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "any",
-  "why": "A pocket lantern-and-flashlight that recharges by USB; light enough to live in a jacket pocket.",
+  "why": "A pocket lantern-and-flashlight that recharges by USB; small enough to keep in a jacket pocket.",
   "stocking": true,
   "asin": "B01IQXDTGY",
   "checked": "2026-11-02"
@@ -265,7 +255,6 @@ window.GF_PRODUCTS = [
   "id": "petzl-tikkina",
   "name": "Petzl Tikkina Headlamp",
   "brand": "Petzl",
-  "price": "approx. $15–$20",
   "priceApprox": 20,
   "band": "u25",
   "who": [
@@ -286,7 +275,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Hands-free light from a trusted brand at stocking-stuffer price; every camper needs a spare.",
+  "why": "A simple, lightweight headlamp at a stocking-stuffer price; a handy spare for the car or pack.",
   "stocking": true,
   "asin": "B0FD64NN69",
   "checked": "2026-11-02"
@@ -295,7 +284,6 @@ window.GF_PRODUCTS = [
   "id": "bd-spot",
   "name": "Black Diamond Spot 400 Headlamp",
   "brand": "Black Diamond",
-  "price": "approx. $45–$50",
   "priceApprox": 48,
   "band": "25-50",
   "who": [
@@ -312,7 +300,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "seasoned",
-  "why": "Bright, waterproof, and has a red mode that won't spook game or wreck night vision.",
+  "why": "A headlamp Black Diamond lists at 400 lumens and rates waterproof, with a red-light mode for keeping night vision.",
   "stocking": false,
   "asin": "B0H1R7P6L2",
   "checked": "2026-11-02"
@@ -321,7 +309,6 @@ window.GF_PRODUCTS = [
   "id": "gci-rocker",
   "name": "GCI Outdoor Freestyle Rocker Chair",
   "brand": "GCI Outdoor",
-  "price": "approx. $80–$85",
   "priceApprox": 80,
   "band": "50-100",
   "who": [
@@ -335,7 +322,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "A folding chair that actually rocks; the most-loved seat at any campfire.",
+  "why": "A folding camp chair that rocks, for sitting around the campfire.",
   "stocking": false,
   "asin": "B087DRTZBF",
   "checked": "2026-11-02"
@@ -344,7 +331,6 @@ window.GF_PRODUCTS = [
   "id": "kelty-loveseat",
   "name": "Kelty Low Loveseat Camp Chair",
   "brand": "Kelty",
-  "price": "approx. $145–$150",
   "priceApprox": 150,
   "band": "100+",
   "who": [
@@ -364,7 +350,6 @@ window.GF_PRODUCTS = [
   "id": "rumpl-puffy",
   "name": "Rumpl Original Puffy Blanket",
   "brand": "Rumpl",
-  "price": "approx. $95–$100",
   "priceApprox": 100,
   "band": "50-100",
   "who": [
@@ -379,7 +364,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "any",
-  "why": "A sleeping-bag-material blanket for chilly campfire nights, stadiums, and the couch.",
+  "why": "A blanket made with sleeping-bag-style insulation and shell fabric, for chilly campfire nights, stadiums, and the couch.",
   "stocking": false,
   "asin": "B0D8JR9JGJ",
   "checked": "2026-11-02"
@@ -388,7 +373,6 @@ window.GF_PRODUCTS = [
   "id": "eno-doublenest",
   "name": "ENO DoubleNest Hammock",
   "brand": "Eagles Nest Outfitters",
-  "price": "approx. $70–$75",
   "priceApprox": 75,
   "band": "50-100",
   "who": [
@@ -401,7 +385,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "beginner",
-  "why": "Sets up between two trees in two minutes; the teen-approved way to hang out at camp.",
+  "why": "A roomy nylon hammock that packs into an attached stuff sack; check whether the listing includes tree straps.",
   "stocking": false,
   "asin": "B09KNX51D2",
   "checked": "2026-11-02"
@@ -410,7 +394,6 @@ window.GF_PRODUCTS = [
   "id": "coghlans-forks",
   "name": "Coghlan's Telescoping Roasting Fork",
   "brand": "Coghlan's",
-  "price": "approx. $3–$6",
   "priceApprox": 4,
   "band": "u25",
   "who": [
@@ -427,7 +410,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Extends far from the flames for perfect s'mores; cheap enough to buy one per kid.",
+  "why": "A telescoping fork that extends to keep hands back from the fire for s'mores; inexpensive enough to get one per kid. Supervise kids at the fire.",
   "stocking": true,
   "asin": "B001F9Y560",
   "checked": "2026-11-02"
@@ -436,7 +419,6 @@ window.GF_PRODUCTS = [
   "id": "carson-bugview",
   "name": "Carson BugView Bug Catcher Magnifier",
   "brand": "Carson",
-  "price": "approx. $10–$15",
   "priceApprox": 12,
   "band": "u25",
   "who": [
@@ -447,7 +429,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Catch, magnify, and release; turns any campsite into a nature lab for little kids.",
+  "why": "Catch, magnify, and release bugs; a nature activity for young kids at camp.",
   "stocking": true,
   "asin": "B000JQ5AZK",
   "checked": "2026-11-02"
@@ -456,7 +438,6 @@ window.GF_PRODUCTS = [
   "id": "kidnoculars",
   "name": "Educational Insights GeoSafari Jr. Kidnoculars",
   "brand": "Educational Insights",
-  "price": "approx. $10–$15",
   "priceApprox": 11,
   "band": "u25",
   "who": [
@@ -468,7 +449,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "beginner",
-  "why": "Real binoculars sized for small hands, for spotting birds and deer around camp.",
+  "why": "Low-power kids' binoculars sized for small hands, for spotting birds and deer around camp. Check the listed age range.",
   "stocking": true,
   "asin": "B082VYVV8T",
   "checked": "2026-11-02"
@@ -477,7 +458,6 @@ window.GF_PRODUCTS = [
   "id": "coleman-kids-bag",
   "name": "Coleman Kids 45°F Sleeping Bag",
   "brand": "Coleman",
-  "price": "approx. $45–$50",
   "priceApprox": 47,
   "band": "25-50",
   "who": [
@@ -488,7 +468,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Their own kid-sized sleeping bag makes the first campout feel like a big deal.",
+  "why": "A kid-sized sleeping bag of their own; Coleman rates it to 45°F, so it's for mild nights.",
   "stocking": false,
   "asin": "B0CVSGRFW8",
   "checked": "2026-11-02"
@@ -497,7 +477,6 @@ window.GF_PRODUCTS = [
   "id": "planisphere",
   "name": "The Night Sky Star Finder (40°–50° N, large)",
   "brand": "David Chandler",
-  "price": "approx. $10–$15",
   "priceApprox": 15,
   "band": "u25",
   "who": [
@@ -516,7 +495,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "beginner",
-  "why": "Dial in the date and time to name the constellations over camp; perfect for a stargazing night.",
+  "why": "Set the date and time to identify constellations over camp; made for 40°–50° N, which covers most of the continental US.",
   "stocking": true,
   "asin": "0961320745",
   "checked": "2026-11-02"
@@ -525,7 +504,6 @@ window.GF_PRODUCTS = [
   "id": "bananagrams",
   "name": "Bananagrams Word Game",
   "brand": "Bananagrams",
-  "price": "approx. $10–$15",
   "priceApprox": 12,
   "band": "u25",
   "who": [
@@ -551,7 +529,6 @@ window.GF_PRODUCTS = [
   "id": "trekking-parks",
   "name": "Trekking the National Parks Board Game",
   "brand": "Underdog Games",
-  "price": "approx. $20–$25",
   "priceApprox": 23,
   "band": "u25",
   "who": [
@@ -575,7 +552,6 @@ window.GF_PRODUCTS = [
   "id": "campout-cookbook",
   "name": "The Campout Cookbook",
   "brand": "Marnie Hanel & Jen Stevenson",
-  "price": "approx. $10–$15",
   "priceApprox": 12,
   "band": "u25",
   "who": [
@@ -590,7 +566,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Fun, doable campfire recipes that upgrade hot dogs into a real camp dinner.",
+  "why": "A cookbook of campfire and camp-stove recipes, from breakfasts to dinners and desserts.",
   "stocking": true,
   "asin": "1579657990",
   "checked": "2026-11-02"
@@ -599,7 +575,6 @@ window.GF_PRODUCTS = [
   "id": "celestron-upclose",
   "name": "Celestron UpClose G2 10x25 Compact Binoculars",
   "brand": "Celestron",
-  "price": "approx. $25–$30",
   "priceApprox": 27,
   "band": "25-50",
   "who": [
@@ -623,7 +598,6 @@ window.GF_PRODUCTS = [
   "id": "natgeo-parks",
   "name": "National Geographic Guide to the National Parks (9th ed.)",
   "brand": "National Geographic",
-  "price": "approx. $10–$15",
   "priceApprox": 10,
   "band": "u25",
   "who": [
@@ -638,7 +612,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Trip-planning fuel for next season; the gift that starts the next adventure.",
+  "why": "A guidebook to the U.S. national parks for planning next season's trips.",
   "stocking": true,
   "asin": "1426221665",
   "checked": "2026-11-02"
@@ -647,7 +621,6 @@ window.GF_PRODUCTS = [
   "id": "lodge-6",
   "name": "Lodge 6.5\" Cast Iron Skillet",
   "brand": "Lodge",
-  "price": "approx. $10–$15",
   "priceApprox": 13,
   "band": "u25",
   "who": [
@@ -665,7 +638,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "A mini skillet for eggs, a single trout, or a campfire cookie; real cast iron under $15.",
+  "why": "A small cast iron skillet for eggs, a single trout, or a campfire cookie.",
   "stocking": true,
   "asin": "B00063RWT8",
   "checked": "2026-11-02"
@@ -674,7 +647,6 @@ window.GF_PRODUCTS = [
   "id": "jetboil-flash",
   "name": "Jetboil Flash Cooking System",
   "brand": "Jetboil",
-  "price": "approx. $140–$145",
   "priceApprox": 145,
   "band": "100+",
   "who": [
@@ -690,7 +662,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "seasoned",
-  "why": "Boils water in about two minutes for coffee or freeze-dried meals; a backpacker's favorite.",
+  "why": "An all-in-one stove and insulated cooking cup for boiling water for coffee or freeze-dried meals. Fuel sold separately; outdoor use only.",
   "stocking": false,
   "asin": "B0DXQCVVYB",
   "checked": "2026-11-02"
@@ -699,7 +671,6 @@ window.GF_PRODUCTS = [
   "id": "msr-pocketrocket",
   "name": "MSR PocketRocket 2 Stove",
   "brand": "MSR",
-  "price": "approx. $45–$50",
   "priceApprox": 50,
   "band": "25-50",
   "who": [
@@ -713,7 +684,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "seasoned",
-  "why": "An ultralight stove that weighs about 3 oz; the upgrade a backpacker actually wants.",
+  "why": "A compact canister stove that MSR lists at under 3 oz. Fuel sold separately; outdoor use only.",
   "stocking": false,
   "asin": "B01N5O7551",
   "checked": "2026-11-02"
@@ -722,7 +693,6 @@ window.GF_PRODUCTS = [
   "id": "sawyer-squeeze",
   "name": "Sawyer Squeeze Water Filter System",
   "brand": "Sawyer",
-  "price": "approx. $45–$50",
   "priceApprox": 46,
   "band": "25-50",
   "who": [
@@ -738,7 +708,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Turns stream water into drinking water; a trail essential that lasts for years.",
+  "why": "A squeeze filter that Sawyer rates for removing bacteria and protozoa. It does not remove viruses or chemicals.",
   "stocking": false,
   "asin": "B00B1OSU4W",
   "checked": "2026-11-02"
@@ -747,7 +717,6 @@ window.GF_PRODUCTS = [
   "id": "lifestraw-peak",
   "name": "LifeStraw Peak Series Personal Water Filter Straw",
   "brand": "LifeStraw",
-  "price": "approx. $20–$25",
   "priceApprox": 25,
   "band": "u25",
   "who": [
@@ -766,7 +735,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "beginner",
-  "why": "Drink safely straight from a stream; great backup for any pack or emergency kit.",
+  "why": "A filter straw that LifeStraw rates for removing bacteria, parasites, and microplastics; a light backup for a pack or emergency kit.",
   "stocking": true,
   "asin": "B09SBPWHS7",
   "checked": "2026-11-02"
@@ -775,7 +744,6 @@ window.GF_PRODUCTS = [
   "id": "katadyn-befree",
   "name": "Katadyn BeFree 1L Filter Bottle",
   "brand": "Katadyn",
-  "price": "approx. $40–$45",
   "priceApprox": 45,
   "band": "25-50",
   "who": [
@@ -787,7 +755,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "seasoned",
-  "why": "Fill, squeeze, and drink; collapses to nothing when empty.",
+  "why": "A soft filter bottle: fill, squeeze, and drink, and it collapses small when empty. See Katadyn for what it filters.",
   "stocking": false,
   "asin": "B075X5R67T",
   "checked": "2026-11-02"
@@ -796,7 +764,6 @@ window.GF_PRODUCTS = [
   "id": "s2s-aeros",
   "name": "Sea to Summit Aeros Ultralight Pillow",
   "brand": "Sea to Summit",
-  "price": "approx. $30–$35",
   "priceApprox": 35,
   "band": "25-50",
   "who": [
@@ -814,7 +781,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "any",
-  "why": "A real pillow that packs to fist size; ends the rolled-up-jacket era.",
+  "why": "An inflatable pillow that packs to about fist size; an upgrade from a rolled-up jacket.",
   "stocking": false,
   "asin": "B07PCSHKFQ",
   "checked": "2026-11-02"
@@ -823,7 +790,6 @@ window.GF_PRODUCTS = [
   "id": "zlite",
   "name": "Therm-a-Rest Z Lite Sol Sleeping Pad",
   "brand": "Therm-a-Rest",
-  "price": "approx. $45–$50",
   "priceApprox": 50,
   "band": "25-50",
   "who": [
@@ -837,7 +803,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "any",
-  "why": "Unpoppable foam pad; doubles as a camp seat and adds warmth under an air pad in winter.",
+  "why": "A foam sleeping pad that can't puncture; doubles as a camp seat or as an extra layer under an air pad.",
   "stocking": false,
   "asin": "B005I6R0WC",
   "checked": "2026-11-02"
@@ -846,7 +812,6 @@ window.GF_PRODUCTS = [
   "id": "bd-trail-poles",
   "name": "Black Diamond Trail Trekking Poles",
   "brand": "Black Diamond",
-  "price": "approx. $85–$90",
   "priceApprox": 88,
   "band": "50-100",
   "who": [
@@ -859,7 +824,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "any",
-  "why": "Saves knees on steep descents and steadies stream crossings.",
+  "why": "Adjustable trekking poles for balance on descents and stream crossings.",
   "stocking": false,
   "asin": "B07KXXX6ZF",
   "checked": "2026-11-02"
@@ -868,7 +833,6 @@ window.GF_PRODUCTS = [
   "id": "darn-tough",
   "name": "Darn Tough Hiker Micro Crew Socks",
   "brand": "Darn Tough",
-  "price": "approx. $25–$30",
   "priceApprox": 26,
   "band": "25-50",
   "who": [
@@ -887,7 +851,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "any",
-  "why": "Merino socks with a lifetime guarantee; the stocking stuffer every hiker hopes for.",
+  "why": "Merino wool hiking socks, backed by Darn Tough's lifetime guarantee (see Darn Tough for terms).",
   "stocking": true,
   "asin": "B01AITV95C",
   "checked": "2026-11-02"
@@ -896,7 +860,6 @@ window.GF_PRODUCTS = [
   "id": "inreach-mini",
   "name": "Garmin inReach Mini 2 Satellite Communicator",
   "brand": "Garmin",
-  "price": "approx. $310–$315",
   "priceApprox": 314,
   "band": "100+",
   "who": [
@@ -911,7 +874,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "seasoned",
-  "why": "SOS and texting from anywhere without cell service; peace of mind for the people at home. (Needs a subscription plan.)",
+  "why": "Two-way satellite messaging and SOS where there's no cell service. Needs an active Garmin subscription, and coverage depends on conditions.",
   "stocking": false,
   "asin": "B09PSKG7C3",
   "checked": "2026-11-02"
@@ -920,7 +883,6 @@ window.GF_PRODUCTS = [
   "id": "nitecore-nu25",
   "name": "Nitecore NU25 UL Rechargeable Headlamp",
   "brand": "Nitecore",
-  "price": "approx. $35–$40",
   "priceApprox": 37,
   "band": "25-50",
   "who": [
@@ -933,7 +895,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "seasoned",
-  "why": "A 400-lumen headlamp that weighs about 2 oz and charges by USB-C.",
+  "why": "A headlamp Nitecore lists at 400 lumens and about 2 oz, recharging by USB-C.",
   "stocking": false,
   "asin": "B0DY2SW4CH",
   "checked": "2026-11-02"
@@ -942,7 +904,6 @@ window.GF_PRODUCTS = [
   "id": "opinel-8",
   "name": "Opinel No. 08 Carbon Steel Folding Knife",
   "brand": "Opinel",
-  "price": "approx. $15–$20",
   "priceApprox": 20,
   "band": "u25",
   "who": [
@@ -958,7 +919,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "any",
-  "why": "A classic French pocket knife for slicing cheese, rope, or kindling.",
+  "why": "A traditional French folding knife for slicing cheese, rope, or kindling. Adults only.",
   "stocking": true,
   "asin": "B002SCUO04",
   "checked": "2026-11-02"
@@ -967,7 +928,6 @@ window.GF_PRODUCTS = [
   "id": "leatherman-wave",
   "name": "Leatherman Wave+ Multi-Tool",
   "brand": "Leatherman",
-  "price": "approx. $100–$105",
   "priceApprox": 104,
   "band": "100+",
   "who": [
@@ -982,7 +942,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Pliers, knives, and drivers in one; fixes everything from tent poles to RV trim.",
+  "why": "Pliers, knives, and drivers in one tool for camp and RV repairs.",
   "stocking": false,
   "asin": "B079MJBP21",
   "checked": "2026-11-02"
@@ -991,7 +951,6 @@ window.GF_PRODUCTS = [
   "id": "victorinox-huntsman",
   "name": "Victorinox Huntsman Swiss Army Knife",
   "brand": "Victorinox",
-  "price": "approx. $35–$40",
   "priceApprox": 39,
   "band": "25-50",
   "who": [
@@ -1007,7 +966,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "beginner",
-  "why": "Saw, scissors, can opener, and blades; the camp pocket knife people keep for decades.",
+  "why": "Saw, scissors, can opener, and blades in one Swiss Army knife.",
   "stocking": false,
   "asin": "B000MLU73W",
   "checked": "2026-11-02"
@@ -1016,7 +975,6 @@ window.GF_PRODUCTS = [
   "id": "nitecore-nb10000",
   "name": "Nitecore NB10000 Gen 2 Power Bank",
   "brand": "Nitecore",
-  "price": "approx. $55–$60",
   "priceApprox": 60,
   "band": "50-100",
   "who": [
@@ -1029,7 +987,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "any",
-  "why": "Featherweight power bank that keeps phones, headlamps, and GPS alive on multi-day trips.",
+  "why": "A light 10,000 mAh power bank for phones, headlamps, and GPS units on multi-day trips.",
   "stocking": false,
   "asin": "B0C1Q7R2HS",
   "checked": "2026-11-02"
@@ -1038,7 +996,6 @@ window.GF_PRODUCTS = [
   "id": "hydroflask-32",
   "name": "Hydro Flask 32 oz Wide Mouth Bottle",
   "brand": "Hydro Flask",
-  "price": "approx. $40–$45",
   "priceApprox": 45,
   "band": "25-50",
   "who": [
@@ -1056,7 +1013,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Ice water all day at a hot campsite; a gift that gets used every single day at home too.",
+  "why": "A vacuum-insulated bottle for cold water at a hot campsite, and handy at home too.",
   "stocking": false,
   "asin": "B09SQQL36M",
   "checked": "2026-11-02"
@@ -1065,7 +1022,6 @@ window.GF_PRODUCTS = [
   "id": "nalgene-32",
   "name": "Nalgene 32 oz Wide Mouth Bottle",
   "brand": "Nalgene",
-  "price": "approx. $15–$20",
   "priceApprox": 16,
   "band": "u25",
   "who": [
@@ -1083,7 +1039,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "beginner",
-  "why": "Nearly indestructible; fill with hot water for a sleeping-bag warmer on cold nights.",
+  "why": "A durable wide-mouth water bottle that's easy to fill and clean.",
   "stocking": true,
   "asin": "B09LMP8NB2",
   "checked": "2026-11-02"
@@ -1092,14 +1048,12 @@ window.GF_PRODUCTS = [
   "id": "firesteel",
   "name": "Light My Fire Swedish FireSteel Scout",
   "brand": "Light My Fire",
-  "price": "approx. $10–$15",
   "priceApprox": 15,
   "band": "u25",
   "who": [
    "teen",
    "dad",
-   "friend",
-   "kid"
+   "friend"
   ],
   "styles": [
    "backpacking",
@@ -1108,7 +1062,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "any",
-  "why": "Throws hot sparks in wind and wet; a fire starter that never runs out of fuel.",
+  "why": "A ferro-rod fire starter that sparks in wind and wet weather; Light My Fire rates it for thousands of strikes.",
   "stocking": true,
   "asin": "B07NQHP4KX",
   "checked": "2026-11-02"
@@ -1117,7 +1071,6 @@ window.GF_PRODUCTS = [
   "id": "uco-matches",
   "name": "UCO Stormproof Match Kit",
   "brand": "UCO",
-  "price": "approx. $15–$20",
   "priceApprox": 15,
   "band": "u25",
   "who": [
@@ -1136,7 +1089,7 @@ window.GF_PRODUCTS = [
    "winter"
   ],
   "level": "beginner",
-  "why": "Matches that relight after being dunked in water; the fire backup every pack needs.",
+  "why": "Stormproof matches that UCO says keep burning in wind and relight after getting wet; a backup fire starter for a pack.",
   "stocking": true,
   "asin": "B003I1T7ES",
   "checked": "2026-11-02"
@@ -1145,7 +1098,6 @@ window.GF_PRODUCTS = [
   "id": "leukotape",
   "name": "Leukotape P Sports Tape",
   "brand": "Leukotape",
-  "price": "approx. $10–$15",
   "priceApprox": 13,
   "band": "u25",
   "who": [
@@ -1158,7 +1110,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "seasoned",
-  "why": "The blister tape long-distance hikers swear by; a small, insider stocking stuffer.",
+  "why": "A strong-adhesive sports tape that some hikers use to help prevent blisters.",
   "stocking": true,
   "asin": "B000E59HXC",
   "checked": "2026-11-02"
@@ -1167,7 +1119,6 @@ window.GF_PRODUCTS = [
   "id": "ti-spork",
   "name": "Light My Fire Titanium Spork",
   "brand": "Light My Fire",
-  "price": "approx. $20–$25",
   "priceApprox": 25,
   "band": "u25",
   "who": [
@@ -1182,7 +1133,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "any",
-  "why": "Spoon, fork, and knife edge in one ultralight titanium tool.",
+  "why": "Spoon, fork, and knife edge in one lightweight titanium tool.",
   "stocking": true,
   "asin": "B08NF675DY",
   "checked": "2026-11-02"
@@ -1191,7 +1142,6 @@ window.GF_PRODUCTS = [
   "id": "camco-regulator",
   "name": "Camco Brass RV Water Pressure Regulator",
   "brand": "Camco",
-  "price": "approx. $10–$15",
   "priceApprox": 12,
   "band": "u25",
   "who": [
@@ -1203,7 +1153,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Protects the RV's plumbing from high campground water pressure; a must-have for new owners.",
+  "why": "A brass regulator that limits incoming campground water pressure to help protect RV plumbing; a practical gift for new owners.",
   "stocking": true,
   "asin": "B003BZD08U",
   "checked": "2026-11-02"
@@ -1212,7 +1162,6 @@ window.GF_PRODUCTS = [
   "id": "camco-filter",
   "name": "Camco TastePURE RV Water Filter (2-pack)",
   "brand": "Camco",
-  "price": "approx. $20–$25",
   "priceApprox": 25,
   "band": "u25",
   "who": [
@@ -1224,7 +1173,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Better-tasting water at every campground hookup; a consumable RVers always need.",
+  "why": "Inline hose filters that Camco says reduce bad taste, odor, and sediment; RVers replace them regularly.",
   "stocking": true,
   "asin": "B0024E6V30",
   "checked": "2026-11-02"
@@ -1233,7 +1182,6 @@ window.GF_PRODUCTS = [
   "id": "andersen-leveler",
   "name": "Andersen Camper Leveler (3604)",
   "brand": "Andersen Hitches",
-  "price": "approx. $70–$75",
   "priceApprox": 75,
   "band": "50-100",
   "who": [
@@ -1244,7 +1192,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "any",
-  "why": "Level the trailer in one pull-on move instead of stacking blocks; RVers love these.",
+  "why": "Level a trailer by driving onto a curved ramp and chocking it, instead of stacking blocks.",
   "stocking": false,
   "asin": "B07H9J47HR",
   "checked": "2026-11-02"
@@ -1253,7 +1201,6 @@ window.GF_PRODUCTS = [
   "id": "camco-hose",
   "name": "Camco TastePURE 25 ft Drinking Water Hose",
   "brand": "Camco",
-  "price": "approx. $10–$15",
   "priceApprox": 14,
   "band": "u25",
   "who": [
@@ -1266,7 +1213,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "beginner",
-  "why": "Drinking-water-safe hose (not a garden hose); exactly what a new RV owner forgets.",
+  "why": "A drinking-water hose that Camco makes for RV fresh-water hookups (unlike a garden hose).",
   "stocking": true,
   "asin": "B004ME11FS",
   "checked": "2026-11-02"
@@ -1275,7 +1222,6 @@ window.GF_PRODUCTS = [
   "id": "blackstone-17",
   "name": "Blackstone 17\" Tabletop Griddle",
   "brand": "Blackstone",
-  "price": "approx. $155–$160",
   "priceApprox": 160,
   "band": "100+",
   "who": [
@@ -1289,7 +1235,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "any",
-  "why": "Smash burgers and full breakfasts at the campsite; RV and tailgate crowd favorite.",
+  "why": "A tabletop propane griddle for smash burgers and full breakfasts at the campsite or tailgate. Outdoor use only.",
   "stocking": false,
   "asin": "B07ZS5HWCC",
   "checked": "2026-11-02"
@@ -1298,7 +1244,6 @@ window.GF_PRODUCTS = [
   "id": "kidde-co",
   "name": "Kidde Battery Carbon Monoxide Detector",
   "brand": "Kidde",
-  "price": "approx. $25–$30",
   "priceApprox": 28,
   "band": "25-50",
   "who": [
@@ -1307,12 +1252,11 @@ window.GF_PRODUCTS = [
    "partner"
   ],
   "styles": [
-   "rv",
    "winter",
    "hunting"
   ],
   "level": "any",
-  "why": "A small alarm for the RV, cabin, or hunting shack; the thoughtful gift that keeps people safe.",
+  "why": "A battery carbon monoxide alarm for a cabin or for travel to rentals. Kidde says it is not approved for RV or boat use.",
   "stocking": false,
   "asin": "B004Y6V5CI",
   "checked": "2026-11-02"
@@ -1321,7 +1265,6 @@ window.GF_PRODUCTS = [
   "id": "spikeball",
   "name": "Spikeball 3-Ball Original Set",
   "brand": "Spikeball",
-  "price": "approx. $70–$75",
   "priceApprox": 75,
   "band": "50-100",
   "who": [
@@ -1334,7 +1277,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "any",
-  "why": "The campsite game teens and adults actually play; packs into one bag.",
+  "why": "A fast lawn game for teens and adults that packs into one bag.",
   "stocking": false,
   "asin": "B002V7A7MQ",
   "checked": "2026-11-02"
@@ -1343,7 +1286,6 @@ window.GF_PRODUCTS = [
   "id": "vortex-crossfire",
   "name": "Vortex Crossfire HD 10x42 Binoculars",
   "brand": "Vortex",
-  "price": "approx. $145–$150",
   "priceApprox": 149,
   "band": "100+",
   "who": [
@@ -1355,7 +1297,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Crisp glass for glassing deer at dawn, with Vortex's no-questions lifetime warranty.",
+  "why": "10x42 binoculars for glassing deer at dawn, backed by Vortex's VIP warranty (see Vortex for terms).",
   "stocking": false,
   "asin": "B07V3LB5DN",
   "checked": "2026-11-02"
@@ -1364,7 +1306,6 @@ window.GF_PRODUCTS = [
   "id": "hothands-40",
   "name": "HotHands Hand Warmers (40 pairs)",
   "brand": "HotHands",
-  "price": "approx. $25–$30",
   "priceApprox": 26,
   "band": "25-50",
   "who": [
@@ -1383,7 +1324,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "any",
-  "why": "Forty pairs to split across every stocking; used on cold stands, ice, and frosty camp mornings.",
+  "why": "Forty pairs of air-activated hand warmers to split across stockings, for cold stands, ice fishing, and frosty camp mornings.",
   "stocking": true,
   "asin": "B0007ZF4OA",
   "checked": "2026-11-02"
@@ -1392,7 +1333,6 @@ window.GF_PRODUCTS = [
   "id": "ocoopa",
   "name": "OCOOPA Rechargeable Hand Warmers (2-pack)",
   "brand": "OCOOPA",
-  "price": "approx. $10–$15",
   "priceApprox": 15,
   "band": "u25",
   "who": [
@@ -1410,7 +1350,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Rechargeable warmers that split into two; no more buying disposables.",
+  "why": "Rechargeable hand warmers that split into two, instead of buying disposables.",
   "stocking": true,
   "asin": "B0FHH5SLZB",
   "checked": "2026-11-02"
@@ -1419,7 +1359,6 @@ window.GF_PRODUCTS = [
   "id": "thermacell",
   "name": "Thermacell Portable Mosquito Repeller",
   "brand": "Thermacell",
-  "price": "approx. $20–$25",
   "priceApprox": 24,
   "band": "u25",
   "who": [
@@ -1436,7 +1375,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "any",
-  "why": "A no-spray bug shield for tree stands, docks, and picnic tables.",
+  "why": "A no-spray mosquito repeller that runs on fuel cartridges, for tree stands, docks, and picnic tables.",
   "stocking": true,
   "asin": "B07JCQ8GQJ",
   "checked": "2026-11-02"
@@ -1445,7 +1384,6 @@ window.GF_PRODUCTS = [
   "id": "mr-heater-buddy",
   "name": "Mr. Heater Portable Buddy Heater",
   "brand": "Mr. Heater",
-  "price": "approx. $85–$90",
   "priceApprox": 90,
   "band": "50-100",
   "who": [
@@ -1459,7 +1397,7 @@ window.GF_PRODUCTS = [
    "rv"
   ],
   "level": "seasoned",
-  "why": "Indoor-safe propane heat (with auto shutoff) for blinds and ice shanties; follow the ventilation rules.",
+  "why": "A propane heater that Mr. Heater approves for indoor use in ventilated tents, blinds, and ice shanties. Its manual says never run it while sleeping.",
   "stocking": false,
   "asin": "B0GYT8HCT6",
   "checked": "2026-11-02"
@@ -1468,7 +1406,6 @@ window.GF_PRODUCTS = [
   "id": "bushnell-core",
   "name": "Bushnell Core DS-4K No Glow Trail Camera",
   "brand": "Bushnell",
-  "price": "approx. $175–$180",
   "priceApprox": 176,
   "band": "100+",
   "who": [
@@ -1479,7 +1416,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "seasoned",
-  "why": "See what's walking past the stand all season; the gift that pays off before opening day.",
+  "why": "A trail camera for seeing what walks past the stand all season; needs batteries and an SD card.",
   "stocking": false,
   "asin": "B09DHL4S6J",
   "checked": "2026-11-02"
@@ -1488,7 +1425,6 @@ window.GF_PRODUCTS = [
   "id": "primos-can",
   "name": "Primos The Original Can Deer Call",
   "brand": "Primos",
-  "price": "approx. $10–$15",
   "priceApprox": 10,
   "band": "u25",
   "who": [
@@ -1501,7 +1437,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "any",
-  "why": "Flip it over to make a doe bleat; the most recognized deer call in the woods, under $15.",
+  "why": "Flip it over to make a doe bleat; a simple, easy-to-use deer call.",
   "stocking": true,
   "asin": "B07C7HZ79N",
   "checked": "2026-11-02"
@@ -1510,7 +1446,6 @@ window.GF_PRODUCTS = [
   "id": "koola-game-bags",
   "name": "Koola Buck Game Bags",
   "brand": "Koola Buck",
-  "price": "approx. $20–$25",
   "priceApprox": 24,
   "band": "u25",
   "who": [
@@ -1522,7 +1457,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "seasoned",
-  "why": "Breathable bags that keep meat clean on the pack-out; a practical gift hunters run out of.",
+  "why": "Breathable game bags for keeping meat clean on the pack-out; hunters use them up.",
   "stocking": true,
   "asin": "B085MNYKDQ",
   "checked": "2026-11-02"
@@ -1531,7 +1466,6 @@ window.GF_PRODUCTS = [
   "id": "buck-110",
   "name": "Buck 110 Folding Hunter Knife",
   "brand": "Buck Knives",
-  "price": "approx. $85–$90",
   "priceApprox": 90,
   "band": "50-100",
   "who": [
@@ -1543,7 +1477,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "any",
-  "why": "An American classic with brass and ebony; the heirloom knife that gets passed down.",
+  "why": "Buck's long-running folding hunting knife, with brass bolsters and a wood handle. Adults only.",
   "stocking": false,
   "asin": "B000EHYZKK",
   "checked": "2026-11-02"
@@ -1552,7 +1486,6 @@ window.GF_PRODUCTS = [
   "id": "lem-jerky",
   "name": "LEM Jerky Cannon",
   "brand": "LEM Products",
-  "price": "approx. $55–$60",
   "priceApprox": 60,
   "band": "50-100",
   "who": [
@@ -1573,7 +1506,6 @@ window.GF_PRODUCTS = [
   "id": "meateater-cookbook",
   "name": "The MeatEater Fish and Game Cookbook",
   "brand": "Steven Rinella",
-  "price": "approx. $10–$15",
   "priceApprox": 14,
   "band": "u25",
   "who": [
@@ -1587,7 +1519,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Great recipes for venison, birds, and fish; turns this season's harvest into dinner.",
+  "why": "Steven Rinella's recipes for venison, birds, and fish; turns this season's harvest into dinner.",
   "stocking": true,
   "asin": "0399590072",
   "checked": "2026-11-02"
@@ -1596,7 +1528,6 @@ window.GF_PRODUCTS = [
   "id": "meateater-skills",
   "name": "The MeatEater Guide to Wilderness Skills and Survival",
   "brand": "Steven Rinella",
-  "price": "approx. $15–$20",
   "priceApprox": 15,
   "band": "u25",
   "who": [
@@ -1611,7 +1542,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "beginner",
-  "why": "Practical backcountry skills from fire to navigation, written by hunters.",
+  "why": "Steven Rinella's practical backcountry skills, from fire to navigation.",
   "stocking": true,
   "asin": "0593129695",
   "checked": "2026-11-02"
@@ -1620,7 +1551,6 @@ window.GF_PRODUCTS = [
   "id": "ugly-stik-gx2",
   "name": "Ugly Stik GX2 Spinning Combo",
   "brand": "Ugly Stik",
-  "price": "approx. $75–$80",
   "priceApprox": 80,
   "band": "50-100",
   "who": [
@@ -1634,7 +1564,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "beginner",
-  "why": "Nearly unbreakable rod-and-reel combo; the go-to first serious setup.",
+  "why": "A spinning rod-and-reel combo with a graphite-and-fiberglass rod; a good fit for a first setup.",
   "stocking": false,
   "asin": "B0D1537STT",
   "checked": "2026-11-02"
@@ -1643,7 +1573,6 @@ window.GF_PRODUCTS = [
   "id": "rapala-fillet",
   "name": "Rapala Fish 'n Fillet Knife (6\")",
   "brand": "Rapala",
-  "price": "approx. $25–$30",
   "priceApprox": 27,
   "band": "25-50",
   "who": [
@@ -1656,7 +1585,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "The fillet knife that's been in tackle boxes for 50 years, with sheath.",
+  "why": "Rapala's long-running fillet knife, sold with a sheath. Adults only.",
   "stocking": false,
   "asin": "B001NXC89O",
   "checked": "2026-11-02"
@@ -1665,7 +1594,6 @@ window.GF_PRODUCTS = [
   "id": "piscifun-pliers",
   "name": "Piscifun Aluminum Fishing Pliers",
   "brand": "Piscifun",
-  "price": "approx. $20–$25",
   "priceApprox": 22,
   "band": "u25",
   "who": [
@@ -1678,7 +1606,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Unhooks fish, cuts braid, opens split rings; lives on the belt.",
+  "why": "Unhooks fish, cuts braid, and opens split rings; rides on a belt.",
   "stocking": true,
   "asin": "B075965MS3",
   "checked": "2026-11-02"
@@ -1687,7 +1615,6 @@ window.GF_PRODUCTS = [
   "id": "penn-battle",
   "name": "PENN Battle IV Spinning Reel",
   "brand": "PENN",
-  "price": "approx. $125–$130",
   "priceApprox": 129,
   "band": "100+",
   "who": [
@@ -1698,7 +1625,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "seasoned",
-  "why": "A tough all-metal reel for bigger fish and saltwater; an upgrade, not a starter.",
+  "why": "A spinning reel with a full-metal body for bigger fish and saltwater; better as an upgrade than a starter.",
   "stocking": false,
   "asin": "B08BQ5GJLL",
   "checked": "2026-11-02"
@@ -1707,7 +1634,6 @@ window.GF_PRODUCTS = [
   "id": "zebco-dock-demon",
   "name": "Zebco Dock Demon Kids Combo",
   "brand": "Zebco",
-  "price": "approx. $20–$25",
   "priceApprox": 22,
   "band": "u25",
   "who": [
@@ -1718,7 +1644,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "beginner",
-  "why": "A short, easy rod for kids to catch their first sunfish off the dock.",
+  "why": "A short, easy rod for kids to catch their first sunfish off the dock. An adult should handle the hooks.",
   "stocking": true,
   "asin": "B07XW34KKX",
   "checked": "2026-11-02"
@@ -1727,7 +1653,6 @@ window.GF_PRODUCTS = [
   "id": "kastking-glasses",
   "name": "KastKing Tarkio Polarized Sunglasses",
   "brand": "KastKing",
-  "price": "approx. $30–$35",
   "priceApprox": 34,
   "band": "25-50",
   "who": [
@@ -1740,7 +1665,7 @@ window.GF_PRODUCTS = [
    "fishing"
   ],
   "level": "any",
-  "why": "Polarized lenses cut glare so they can see fish (and snags) under the water.",
+  "why": "Polarized lenses cut surface glare, which can make fish and snags easier to see.",
   "stocking": false,
   "asin": "B0DGLD9XVV",
   "checked": "2026-11-02"
@@ -1749,7 +1674,6 @@ window.GF_PRODUCTS = [
   "id": "buff-coolnet",
   "name": "Buff CoolNet UV Neck Gaiter",
   "brand": "Buff",
-  "price": "approx. $20–$25",
   "priceApprox": 24,
   "band": "u25",
   "who": [
@@ -1765,7 +1689,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "any",
-  "why": "UPF 50 sun cover for long days on the water; pulls up as a face cover.",
+  "why": "A neck gaiter that Buff rates UPF 50, for long days on the water; pulls up as a face cover.",
   "stocking": true,
   "asin": "B07GR42L3C",
   "checked": "2026-11-02"
@@ -1774,7 +1698,6 @@ window.GF_PRODUCTS = [
   "id": "carhartt-beanie",
   "name": "Carhartt Acrylic Watch Cap Beanie",
   "brand": "Carhartt",
-  "price": "approx. $15–$20",
   "priceApprox": 20,
   "band": "u25",
   "who": [
@@ -1793,7 +1716,7 @@ window.GF_PRODUCTS = [
    "car"
   ],
   "level": "any",
-  "why": "The iconic beanie; warm, cheap, and comes in blaze orange for hunters.",
+  "why": "Carhartt's warm, inexpensive knit watch cap, sold in many colors.",
   "stocking": true,
   "asin": "B002G9UDYG",
   "checked": "2026-11-02"
@@ -1802,7 +1725,6 @@ window.GF_PRODUCTS = [
   "id": "smartwool-beanie",
   "name": "Smartwool Thermal Merino Reversible Cuffed Beanie",
   "brand": "Smartwool",
-  "price": "approx. $35–$40",
   "priceApprox": 35,
   "band": "25-50",
   "who": [
@@ -1819,7 +1741,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "any",
-  "why": "Merino stays warm when damp and doesn't stink; ideal for sleeping in on cold nights.",
+  "why": "A merino wool beanie; merino stays warm when damp and resists odor, which makes it good for cold nights.",
   "stocking": false,
   "asin": "B01GQX0AEK",
   "checked": "2026-11-02"
@@ -1828,7 +1750,6 @@ window.GF_PRODUCTS = [
   "id": "coleman-northrim",
   "name": "Coleman North Rim 0°F Mummy Sleeping Bag",
   "brand": "Coleman",
-  "price": "approx. $90–$95",
   "priceApprox": 94,
   "band": "50-100",
   "who": [
@@ -1841,7 +1762,7 @@ window.GF_PRODUCTS = [
    "hunting"
   ],
   "level": "beginner",
-  "why": "An affordable cold-weather bag for late-season hunting camps and first winter trips.",
+  "why": "A budget cold-weather mummy bag that Coleman rates to 0°F, for late-season hunting camps. Comfort varies, so layer up.",
   "stocking": false,
   "asin": "B0D643KDKN",
   "checked": "2026-11-02"
@@ -1850,7 +1771,6 @@ window.GF_PRODUCTS = [
   "id": "xtherm",
   "name": "Therm-a-Rest NeoAir XTherm NXT Sleeping Pad",
   "brand": "Therm-a-Rest",
-  "price": "approx. $225–$230",
   "priceApprox": 230,
   "band": "100+",
   "who": [
@@ -1862,7 +1782,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "seasoned",
-  "why": "Among the warmest ultralight pads (R 7.3); the serious upgrade for winter campers.",
+  "why": "An ultralight air pad that Therm-a-Rest lists at R-value 7.3; an upgrade for winter campers.",
   "stocking": false,
   "asin": "B0CS54SN91",
   "checked": "2026-11-02"
@@ -1871,7 +1791,6 @@ window.GF_PRODUCTS = [
   "id": "hothands-toe",
   "name": "HotHands Toe Warmers",
   "brand": "HotHands",
-  "price": "approx. $15–$20",
   "priceApprox": 20,
   "band": "u25",
   "who": [
@@ -1898,7 +1817,6 @@ window.GF_PRODUCTS = [
   "id": "bug-bite-thing",
   "name": "Bug Bite Thing Suction Tool",
   "brand": "Bug Bite Thing",
-  "price": "approx. $9–$10",
   "priceApprox": 10,
   "band": "u25",
   "who": [
@@ -1917,7 +1835,7 @@ window.GF_PRODUCTS = [
    "backpacking"
   ],
   "level": "beginner",
-  "why": "Pulls out itch and sting at the source; tiny, cheap, and loved by parents.",
+  "why": "A small suction tool marketed for use on bug bites and stings.",
   "stocking": true,
   "asin": "B01576DWQU",
   "checked": "2026-11-02"

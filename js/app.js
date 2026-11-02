@@ -44,7 +44,7 @@
     var ic = ICON[style] || ICON[p.styles[0]] || '🎁';
     return '<article class="card pick"><div class="ic" aria-hidden="true">' + ic + '</div><div>' +
       '<h3>' + esc(p.name) + '</h3>' +
-      '<div class="meta">' + esc(p.brand) + ' · ' + esc(p.price) + (p.stocking && p.priceApprox <= 26 ? ' <span class="tag s">stocking stuffer</span>' : '') + '</div>' +
+      '<div class="meta">' + esc(p.brand) + (p.stocking && p.priceApprox <= 26 ? ' <span class="tag s">stocking stuffer</span>' : '') + '</div>' +
       '<p>' + esc(p.why) + '</p>' +
       '<a class="buy" href="' + esc(window.GF_LINK(p)) + '" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon →</a>' +
       '</div></article>';
@@ -80,7 +80,7 @@
     var res = $('#results');
     var title = 'Gifts for ' + WHO_LABEL[state.who] + ', ' + STYLE_LABEL[state.style] + ', ' + BUDGET_LABEL[state.budget];
     $('#rtitle').textContent = title;
-    $('#rcount').textContent = picks.length + ' gift ideas' + (state.level !== 'any' ? ' for a ' + state.level + ' camper' : '') + '. Prices are approximate; check the current price before you buy.';
+    $('#rcount').textContent = picks.length + ' curated gift ideas' + (state.level !== 'any' ? ' for a ' + state.level + ' camper' : '') + '. Budget tiers are based on prices we saw on Nov 2, 2026; prices change, so check the current price on Amazon before you buy.';
     $('#picks').innerHTML = picks.map(function (p) { return card(p, state.style); }).join('');
     res.classList.remove('hidden');
     var qs = '?who=' + state.who + '&style=' + state.style + '&budget=' + encodeURIComponent(state.budget) + (state.level !== 'any' ? '&level=' + state.level : '');
